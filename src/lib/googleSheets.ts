@@ -1,7 +1,7 @@
 // Google Sheets integration via Google Apps Script Web App
 // You need to set up a Google Apps Script and deploy it as a web app
 
-const GOOGLE_SCRIPT_URL = ''; // Add your Google Apps Script URL here
+const GOOGLE_SCRIPT_URL = https://script.google.com/macros/s/AKfycbx1DXUTVyRqcFubozPX_ygvxsAxUdmuJRF20m_U5eEuwEJAJfyugYESdaqy-DWDNbs/exec; // Add your Google Apps Script URL here
 
 export interface FormData {
   formType: string;
